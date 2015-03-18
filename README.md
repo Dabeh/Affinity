@@ -1,0 +1,4 @@
+# Affinity
+
+
+Readme - incomplete obviously ;)
